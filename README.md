@@ -1,9 +1,6 @@
 # 🛒 Blinkit Sales Analysis Dashboard
 
 An interactive, end-to-end Power BI dashboard analyzing sales performance, product category distributions, outlet metrics, and customer preferences for **Blinkit** (India's Last Minute App).
-
-![Blinkit Dashboard Preview](https://github.com/appcreatorabhay/Blinkit-dashboard/raw/main/image_5e443d.png)
-
 ---
 
 ## 📌 Business Overview
